@@ -19,17 +19,17 @@
 
 ### Development
 
-<img src="https://skillicons.dev/icons?i=go,js,java,html,css,nodejs,nuxtjs,tauri,flutter,bash,linux,md,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=go,js,java,html,css,nodejs,nuxtjs,tauri,tailwind,flutter,bash,linux,md,postman&theme=dark" />
 </div>
 
 ### Databases
 
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,appwrite&theme=dark" />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,appwrite,redis&theme=dark" />
 </div>
 
 ### Services
 
-<img src="https://skillicons.dev/icons?i=github,cloudflare,docker,bots&theme=dark" />
+<img src="https://skillicons.dev/icons?i=github,cloudflare,docker,bots,vercel,vite,vscode&theme=dark" />
 </div>
 
 <br />
