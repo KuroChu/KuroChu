@@ -1,6 +1,6 @@
 # 𝗛𝗲𝗹𝗹𝗼 <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27">
 
-[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:KuroChu@putput.org)](mailto:KuroChu@putput.org)
+[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:KuroChuu@proton.me)](mailto:KuroChuu@proton.me)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=kurochu)
 
 <img width="45%" align="right" src="https://github-readme-streak-stats.herokuapp.com?user=Kurochu&theme=tokyonight&hide_border=true">
