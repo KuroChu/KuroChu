@@ -9,7 +9,7 @@
 
 ## 🧐 About
 
-- Hey, Kuro is talking. 19 y/o, spends most of the day developing ✌
+- Hey, Kuro is talking. 20 y/o, spends most of the day developing ✌
 <!-- - 👨‍💻 Website: https://putput.org
 - 📫 How to reach me: KuroChu@example.com -->
 
